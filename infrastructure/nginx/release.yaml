@@ -14,7 +14,8 @@ spec:
         name: bitnami
         namespace: cluster-config
       #version: "9.x"
-      version: "9.9.1"
+      #version: "9.9.1"
+      version: "9.9.0"
   interval: 1h0m0s
   install:
     remediation:
